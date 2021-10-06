@@ -34,8 +34,8 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 6. Run the App
 
 ## Contact
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
+- [Wali Ullah Shuvo](https://github.com/StarsWarrior) | [Twitter](https://twitter.com/waliullahshuvo) | [Instagram](https://www.instagram.com/waliullahshuvo/) | [Facebook](https://www.facebook.com/waliullah.shuvo)
+
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
